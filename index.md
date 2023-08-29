@@ -2,7 +2,7 @@
 title: Welcome to Visualore
 ---
 
- What is VisuaLore?
+# What is VisuaLore?
 
 **visual:** *relating to seeing or sight*
 

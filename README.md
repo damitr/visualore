@@ -18,9 +18,9 @@
 
 
 <footer>
-## Licence
+
 Text and annotations Creative Commons Share Alike 4.0 License
 
-Source for images given. Most are Public Domain.
+Sources for images given. Most are Public Domain.
 
 </footer>

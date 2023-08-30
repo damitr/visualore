@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+![Seeing is believing](images/style/see.jpg "Seeing is believing, the all permeating eye")
 # What is VisuaLore?
 
 **visual:** *relating to seeing or sight*
